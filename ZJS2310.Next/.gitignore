@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+Data/Logs/
+Data/Exports/
+Data/appsettings.json
+Data/users.json

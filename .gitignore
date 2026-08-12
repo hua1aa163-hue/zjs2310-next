@@ -1,0 +1,32 @@
+# Local Codex state
+.agents/
+.codex/
+
+# Visual Studio and .NET build output
+.vs/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Pp]ublish/
+**/[Aa]rtifacts/
+[Tt]est[Rr]esults/
+
+# User- and machine-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+*.log
+
+# Application runtime data
+**/Data/Logs/
+**/Data/Exports/
+**/Data/appsettings.json
+**/Data/users.json
+
